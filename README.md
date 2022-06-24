@@ -27,7 +27,7 @@
  - **STORAGE**- *READ_STORAGE_PERMISSION, READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE, MANAGE_EXTERNAL_STORAGE)*: to play audio Files.
 
 License
-![GPL-License]
+***GPL-3.0***
 ----
 **GPL-3.0 License**
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
