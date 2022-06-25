@@ -1,4 +1,4 @@
-<a href="https://github.com/Shabinder/SpotiFlyer"><img src="https://xenon.pages.dev/assets/img/favicon.jpg" align="left" height="80" width="80" ></a>
+<a href="https://github.com/Xenon-project/Xenon-Music"><img src="https://xenon.pages.dev/assets/img/favicon.jpg" align="left" height="80" width="80" ></a>
 
 # Xenon Music
 
