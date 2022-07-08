@@ -19,7 +19,7 @@
 
 | Platform | Download | Status |
 |----------|----------|--------|
-| Android    |[DOWNLOAD](https://github.com/Xenon-project/Xenon-Music/releases/download/v1.0/Xenon.music.v1.0.2.apk)| ⚠️ Beta | 
+| Android    |[DOWNLOAD](https://github.com/Xenon-project/Xenon-Music/releases/download/v1.0/Xenon.music.v1.0.apk)| ⚠️ Beta | 
 
 
 
