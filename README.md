@@ -5,7 +5,7 @@
 
 
 
-- **Java Multiplatform** Music Player
+- **Multiplatform** Music Player
 
 
 
