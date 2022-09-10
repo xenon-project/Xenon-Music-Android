@@ -5,29 +5,29 @@
 
 
 
+
+
 - **Multiplatform** Music Player
 
 
 
  **Currently running on:**
  - [Android](https://github.com/Xenon-project/Xenon-Music/releases/) 
- - Windows (Comming Soon)
- - IOS (Comming Soon)
+ - [Windows](https://github.com/Xenon-project/Xenon-Music-Windows/releases/)
  - Linux (Comming Soon)
+ - IOS (Comming Soon)
+
 
 ## 💻 Install 
 
 | Platform | Download | Status |
 |----------|----------|--------|
 | Android    |[DOWNLOAD](https://github.com/Xenon-project/Xenon-Music/releases/download/v1.0/Xenon.music.v1.0.apk)| ⚠️ Beta | 
+| Windows    |[DOWNLOAD](https://github.com/Xenon-project/Xenon-Music-Windows/releases/download/v1.0/Xenon.Music.Player.exe)| ⚠️ Beta |
 
 
 
-### Permissions Info:
- - **STORAGE**- *READ_STORAGE_PERMISSION, READ_EXTERNAL_STORAGE, WRITE_EXTERNAL_STORAGE, MANAGE_EXTERNAL_STORAGE)*: to play audio Files.
-
-License
-***GPL-3.0***
+[License GPL-3.0](https://github.com/Xenon-project/Xenon-Music-Windows/blob/main/LICENSE)
 ----
 **GPL-3.0 License**
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
