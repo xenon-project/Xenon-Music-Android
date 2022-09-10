@@ -27,7 +27,7 @@
 
 
 
-[License GPL-3.0](https://github.com/Xenon-project/Xenon-Music-Windows/blob/main/LICENSE)
+[License GPL-3.0](https://github.com/Xenon-project/Xenon-Music/blob/master/LICENSE)
 ----
 **GPL-3.0 License**
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
