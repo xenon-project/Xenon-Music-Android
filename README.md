@@ -25,7 +25,7 @@
 | Android    |[DOWNLOAD](https://github.com/Xenon-project/Xenon-Music/releases/download/v1.0/Xenon.music.v1.0.apk)| ⚠️ Beta | 
 | Windows    |[DOWNLOAD](https://github.com/Xenon-project/Xenon-Music-Windows/releases/download/v1.0/Xenon.Music.Player.exe)| ⚠️ Beta |
 
-
+#### This Version of Xenon music player is based on [**Music Player App**](https://projectworlds.in/android-projects-with-source-code/android-music-player-project-with-source-code/) by [projectworlds](https://www.youtube.com/c/projectworlds)
 
 [License GPL-3.0](https://github.com/Xenon-project/Xenon-Music/blob/master/LICENSE)
 ----
