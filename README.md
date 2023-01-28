@@ -1,13 +1,21 @@
 <a href="https://github.com/Xenon-project/Xenon-Music"><img src="https://user-images.githubusercontent.com/95465993/178030429-50ccece3-85e8-4dd9-8358-07f1f62274b1.png" align="left" height="80" width="80" ></a>
 
-# Xenon Music
 
 
 
 
 
 
-- **Multiplatform** Music Player
+
+
+## Xenon Music
+
+
+
+
+
+
+
 
 
 
